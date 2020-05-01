@@ -1,3 +1,5 @@
+// more test code could be written to ensure proper code covervage and that future functionality does not break current components
+
 import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
